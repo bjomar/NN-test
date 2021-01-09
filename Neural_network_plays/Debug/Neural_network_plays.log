@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bjoern\source\repos\Neural_network_plays\Neural_network_plays\Source.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bjoern\source\repos\Neural_network_plays\Neural_network_plays\Source.cpp(215,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Neural_network_plays.vcxproj -> C:\Users\bjoern\source\repos\Neural_network_plays\Debug\Neural_network_plays.exe
